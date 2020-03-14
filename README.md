@@ -6,7 +6,7 @@ React application that fetches popular github repos based on the selected progra
 
 React application that compares 2 GitHub users and shows the winner and loser based on their number of followers and repos.
 
-[Demo](https://dinoxas-fake-twitter.netlify.com)
+[Demo](https://dinoxas-reactapp.netlify.com)
 
 ## Built With
 
