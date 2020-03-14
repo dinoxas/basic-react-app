@@ -1,8 +1,8 @@
-# GitHub Popular Repos App
+## GitHub Popular Repos App
 
 React application that fetches popular github repos based on the selected programming language.
 
-# GitHub Users Battle App
+## GitHub Users Battle App
 
 React application that compares 2 GitHub users and shows the winner and loser based on their number of followers and repos.
 
